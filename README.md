@@ -261,10 +261,11 @@ contact.html
 </html>
 ```
 # OUTPUT:
-![alt text](11.png)
-![alt text](12.png)
-![alt text](13.png)
-![alt text](14.png)
+![alt text](jerry/restweb/static/11.png)
+![alt text](jerry/restweb/static/12.png)
+![alt text](jerry/restweb/static/13.png)
+![alt text](jerry/restweb/static/14.png)
+
 
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
