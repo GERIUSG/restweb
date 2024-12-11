@@ -1,0 +1,122 @@
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ecf0f1;
+    color: #2c3e50;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    background-color:red;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+h1, h2 {
+    margin: 10px 0;
+}
+
+main {
+    flex: 1; 
+    padding: 20px;
+}
+
+.team {
+
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.member {
+    width: 30%;
+    margin: 10px;
+    text-align: center;
+}
+
+.member img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color:red;
+    color: white;
+}
+.member
+{
+    margin-top:100px ;
+    margin-left: 100px;
+    border-radius:50%;
+    width: 10%;
+    height: 10%;
+}
+.menu-items {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between; 
+    margin: 20px 0; 
+}
+
+.food-item {
+    flex: 1 1 200px; 
+    margin: 10px; 
+    text-align: center; 
+}
+
+.food-item img {
+    width: 80%; 
+    height: 80%; 
+    border-radius: 8px; 
+}
+.menu-items {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between; 
+    margin: 20px 0; 
+}
+
+.food-item {
+    width:10%;
+    height: 10%;
+    flex: 1 1 200px;
+    margin: 10px; 
+    text-align: center; 
+}
+
+.food-item img {
+    width: 80%; 
+    height: 80%; 
+    border-radius: 8px; 
+}
