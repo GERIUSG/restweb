@@ -6,31 +6,32 @@ To develop a static Restaurant website to display the food items and services pr
 
 ## DESIGN STEPS:
 
-### Step 1:
+## Step 1:
 Requirement collection.
 
-### Step 2:
+## Step 2:
 Creating the layout using HTML and CSS.
 
-### Step 3:
+## Step 3:
 Updating the sample content.
 
-### Step 4:
+## Step 4:
 Choose the appropriate style and color scheme.
 
-### Step 5:
+## Step 5:
 Validate the layout in various browsers.
 
-### Step 6:
+## Step 6:
 Validate the HTML code.
 
-### Step 7:
+## Step 7:
 Publish the website in the given URL.
 
-## PROGRAM:
-~~~
+# PROGRAM:
+```
 
 index.html
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -258,12 +259,12 @@ contact.html
     
 </body>
 </html>
+```
+# OUTPUT:
+![alt text](11.png)
+![alt text](12.png)
+![alt text](13.png)
+![alt text](14.png)
 
-## OUTPUT:
-jerry/restweb/static/11.png
-jerry/restweb/static/12.png
-jerry/restweb/static/13.png
-jerry/restweb/static/14.png
-
-## RESULT:
+# RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
